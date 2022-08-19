@@ -5,6 +5,7 @@ and tuned parameters (query being mached using cosine similarity), and a sysem o
 
 ## File Structure:
 `Queries` : Used outputs, inputs <br>
+`preprocessing.py` : For documents preprocessing<br>
 `BRM.py` : Implemened Boolean Retrival Model system <br>
 `BM25.py` : Implemened BM25 system<br>
 `Tfid.py` : Implemened TfIdf system <br>
